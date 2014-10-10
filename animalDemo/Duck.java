@@ -1,7 +1,7 @@
 public class Duck
 {
 	public void doSpeak(){
-		System.out.println("ga,ga");
-		System.out.println("我是一只鸭");
+		System.out.println("ga,ga,ga,ga");
+		System.out.println("脦脪脢脟脪禄脰禄脩录");
 	}
 }
